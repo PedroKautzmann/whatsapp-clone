@@ -1,0 +1,11 @@
+export const change_email = 'change_email';
+export const change_password = 'change_password';
+export const change_name = 'change_name';
+export const register_success = 'register_success';
+export const register_error = 'register_error';
+export const user_login_success = 'user_login_success';
+export const user_login_error = 'user_login_error';
+export const login = 'login';
+export const change_add_contact_email = 'change_add_contact_email';
+export const add_contact_error = 'add_contact_error';
+export const add_contact_success = 'add_contact_success';
